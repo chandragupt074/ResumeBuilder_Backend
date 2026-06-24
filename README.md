@@ -4,7 +4,10 @@ A scalable and secure Resume Builder backend built using Spring Boot.
 This project provides REST APIs for user authentication, resume creation, profile management, PDF generation, and cloud-based file storage.
 
 ---
-
+![Signup/loging page](https://github.com/chandragupt074/ResumeBuilder_Backend/blob/b2031a6bfcc0e581f1c74b38da265a2f77ff8cb7/Screenshot%202026-06-24%20014642.png)
+![Resume creater page](https://github.com/chandragupt074/ResumeBuilder_Backend/blob/b2031a6bfcc0e581f1c74b38da265a2f77ff8cb7/Screenshot%202026-06-24%20173311.png)
+![Payment page](https://github.com/chandragupt074/ResumeBuilder_Backend/blob/b2031a6bfcc0e581f1c74b38da265a2f77ff8cb7/Screenshot%202026-06-24%20173345.png)
+![Subscription Plan](https://github.com/chandragupt074/ResumeBuilder_Backend/blob/b2031a6bfcc0e581f1c74b38da265a2f77ff8cb7/Screenshot%202026-06-24%20173422.png)
 # ✨ Features
 
 * 🔐 User Authentication & Authorization (JWT Based)
